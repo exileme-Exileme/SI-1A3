@@ -1,0 +1,7 @@
+{
+    "require": {
+        "doctrine/annotations": "^2.0",
+        "symfony/framework-bundle": "^7.1",
+        "symfony/routing": "^7.1"
+    }
+}
